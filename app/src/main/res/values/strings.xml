@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GitHub Helper</string>
+    <string name="title_activity_main">Minecraft</string>
+    <string name="tab_text_1">GitHub №1</string>
+    <string name="tab_text_2">GitHub №2</string>
+    <string name="tab_text_3">GitHub №3</string>
+    <string name="tab_text_4">GitHub №4</string>
+</resources>
